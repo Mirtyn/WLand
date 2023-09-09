@@ -1,0 +1,15 @@
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\bin\Debug\net6.0\Wland.exe
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\bin\Debug\net6.0\Wland.deps.json
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\bin\Debug\net6.0\Wland.runtimeconfig.json
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\bin\Debug\net6.0\Wland.dll
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\bin\Debug\net6.0\Wland.pdb
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.csproj.AssemblyReference.cache
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.AssemblyInfoInputs.cache
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.AssemblyInfo.cs
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.csproj.CoreCompileInputs.cache
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.dll
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\refint\Wland.dll
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.pdb
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\Wland.genruntimeconfig.cache
+C:\Mirtyn\VisualStudio\.MyStuff\Wland\Wland\obj\Debug\net6.0\ref\Wland.dll
