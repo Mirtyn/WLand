@@ -19,6 +19,7 @@
         private int maxTrees = 40;
 
         private List<Tree> trees = new List<Tree>();
+        private Dictionary<int, Tile> map = new Dictionary<int, Tile>();
 
         private Player player = new Player();
 
@@ -148,6 +149,27 @@
                 DrawMap();
             }
         }
+
+        //public bool TryMovePlayerInDirection(Player._Direction direction)
+        //{
+        //    if (direction == Player._Direction.North)
+        //    {
+
+        //    }
+        //    else if (direction == Player._Direction.South)
+        //    {
+
+        //    }
+        //    else if (direction == Player._Direction.West)
+        //    {
+
+        //    }
+        //    else if (direction == Player._Direction.East)
+        //    {
+
+        //    }
+        //    else { return false; }
+        //}
     }
 
     internal class Tile
@@ -156,16 +178,24 @@
         public int YPos;
     }
 
-    internal class Tree : Tile
+    internal class GrassTile : Tile
+    {
+
+    }
+
+    internal class Object
+    {
+        public int XPos;
+        public int YPos;
+    }
+
+    internal class Tree : Object
     {
         
     }
 
-    internal class Player
+    internal class Player : Object
     {
-        public int XPos;
-        public int YPos;
-
         public enum _Direction
         {
             North,
